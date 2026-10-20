@@ -4,12 +4,12 @@ I'm a second-year Mathematics and ECE student at Queen's University, interested 
 Project Summary:
 
 ## Trading & Quant Research
-| [storage-stress](link) | Systematic Cross-sectional Commodities Trading | Python (Core libarires + statsmodels, duckdb), IBKR (ib_async) |
+| [storage-stress](link) | Systematic Cross-Sectional Commodities Trading | Python (Core libarires + statsmodels, duckdb), IBKR (ib_async) |
 
-| [vol-arb](link) | Delta-neutral Statistical Arbitrage with CRR-built IV Surfaces| Python (Numpy, Scipi, Pandas, Matplotlib) |
+| [vol-arb](link) | Delta-Neutral Statistical Arbitrage With CRR-Built IV Surfaces| Python (Numpy, Scipi, Pandas, Matplotlib) |
 
 ## Engineering
-| [gait-analysis](link) | Three-stage pipeline using Yolox26 bounding and an HMM to predict abnormal gait behaviour as symptoms of cognitive decline. |PyTorch, OpenCV, Core Python Libs + Yolox26 Pose Detection |
+| [gait-analysis](link) | Three-Stage Pipeline Using Yolox26 Bounding and HMM-Based Prediction of Abnormal Gait Behaviours and Cognitive Decline. | PyTorch, OpenCV, Core Python Libs + Yolox26 Pose Detection |
 
 ## Currently Working On
 - HFT FPGA designs for simple order book processing
