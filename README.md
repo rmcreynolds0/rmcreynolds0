@@ -9,7 +9,7 @@ Project Summary:
 | [vol-arb](link) | Delta-Neutral Statistical Arbitrage With CRR-Built IV Surfaces| Python (Numpy, Scipi, Pandas, Matplotlib) |
 
 ## Engineering
-| [gait-analysis](link) | Three-Stage Pipeline Using Yolox26 Bounding and HMM-Based Prediction of Abnormal Gait Behaviours and Cognitive Decline. | PyTorch, OpenCV, Core Python Libs + Yolox26 Pose Detection |
+| [gait-analysis](https://github.com/rmcreynolds0/HMM_Gait_Prediction_CogDecline) | Three-Stage Pipeline Using Yolox26 Bounding and HMM-Based Prediction of Abnormal Gait Behaviours and Cognitive Decline. | PyTorch, OpenCV, Core Python Libs + Yolox26 Pose Detection |
 
 ## Currently Working On
 - HFT FPGA designs for simple order book processing
