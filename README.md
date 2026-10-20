@@ -5,6 +5,7 @@ Project Summary:
 
 ## Trading & Quant Research
 | [storage-stress](link) | Systematic Cross-sectional Commodities Trading | Python (Core libarires + statsmodels, duckdb), IBKR (ib_async) |
+
 | [vol-arb](link) | Delta-neutral Statistical Arbitrage with CRR-built IV Surfaces| Python (Numpy, Scipi, Pandas, Matplotlib) |
 
 ## Engineering
