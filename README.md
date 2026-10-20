@@ -1,9 +1,13 @@
-## Hi there 👋
+## Roan McReynolds 👋
 
 <!--
 **rmcreynolds0/rmcreynolds0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+I'm a second year Mathematics and ECE student at Queen's University, interested in quantitative trading and AI/ML. Contact me at 24txp3@queensu.ca or message me on LinkedIn via: www.linkedin.com/in/roan-mcreynolds
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
