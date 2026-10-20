@@ -1,5 +1,19 @@
 ## Roan McReynolds 👋
-I'm a second year Mathematics and ECE student at Queen's University, interested in quantitative trading and AI/ML. Contact me at 24txp3@queensu.ca or message me on LinkedIn via: www.linkedin.com/in/roan-mcreynolds
+I'm a second-year Mathematics and ECE student at Queen's University, interested in quantitative trading and AI/ML. Contact me at 24txp3@queensu.ca or message me on LinkedIn via: www.linkedin.com/in/roan-mcreynolds
+
+Project Summary:
+
+## Trading & Quant Research
+| [storage-stress](link) | Systematic Cross-sectional Commodities Trading | Python (Core libarires + statsmodels, duckdb), IBKR (ib_async) |
+| [vol-arb](link) |Delta-neutral Statistical Arbitrage with CRR-built IV Surfaces| Python (Numpy, Scipi, Pandas, Matplotlib), |
+
+## Engineering
+| Project | What it does | Stack |
+|---|---|---|
+| [gait-analysis](link) | Three-stage pipeline using Yolox26 bounding and an HMM to predict abnormal gait behaviour as symptoms of cognitive decline. | [stack] |
+
+## Currently working on
+- [one or two lines]
 
 
 
