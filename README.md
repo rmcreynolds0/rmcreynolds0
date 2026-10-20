@@ -8,12 +8,12 @@ Project Summary:
 | [vol-arb](link) | Delta-neutral Statistical Arbitrage with CRR-built IV Surfaces| Python (Numpy, Scipi, Pandas, Matplotlib) |
 
 ## Engineering
-| Project | What it does | Stack |
-|---|---|---|
-| [gait-analysis](link) | Three-stage pipeline using Yolox26 bounding and an HMM to predict abnormal gait behaviour as symptoms of cognitive decline. | [stack] |
+| [gait-analysis](link) | Three-stage pipeline using Yolox26 bounding and an HMM to predict abnormal gait behaviour as symptoms of cognitive decline. |PyTorch, OpenCV, Core Python Libs + Yolox26 Pose Detection |
 
-## Currently working on
-- [one or two lines]
+## Currently Working On
+- HFT FPGA designs for simple order book processing
+- Agentic equity research workflows with NLP, graph engineering
+- Automated prospecting scripts, software consulting for Infinity Network Solutions
 
 
 
